@@ -1,0 +1,22 @@
+env_gemini/
+venv_streamlit/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.egg-info/
+dist/
+build/
+.streamlit/
+.flutter project/
+demo_prj/
+# Ignore model files
+*.h5
+
+
+
+
+
+
+
